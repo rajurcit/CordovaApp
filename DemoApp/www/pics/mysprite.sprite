@@ -1,0 +1,15 @@
+{
+  "images": {
+    "kgfgkf": "kgfgkf.jpg"
+  },
+  "orientation": "vertical",
+  "optimize": "lossless",
+  "padding": 10,
+  "output": "jpg",
+  "dpi": 72,
+  "stylesheet": "css",
+  "pathprefix": "",
+  "customstyles": {
+    "display": "inline-block"
+  }
+}
